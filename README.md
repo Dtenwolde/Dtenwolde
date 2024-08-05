@@ -19,6 +19,7 @@ Presentations:
 * [DBDBD](https://dbdbd2022.github.io/index.html) 2022 Utrecht
 * LDBC 15th TUC meeting at SIGMOD 2022 Philadelphia: [Slides](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/daniel-ten-wolde-implementing-sql-pgq-in-duckdb.pdf), [Video](https://www.youtube.com/watch?v=JmSfU0BTH5w)
 
-Supervised: 
-* Daily supervisor of MSc student Yiming Wu who worked on [Seamlessly and Efficiently Integrating DuckDB with Graph Neural Network Libraries](https://homepages.cwi.nl/~boncz/msc/2023-Wu.pdf)
+Daily supervisor of: 
+* MSc student Yiming Wu -- [Seamlessly and Efficiently Integrating DuckDB with Graph Neural Network Libraries](https://homepages.cwi.nl/~boncz/msc/2023-Wu.pdf)
+* MSc student Pingan Ren -- [Parallelized Path-Finding in DuckPGQ](https://homepages.cwi.nl/~boncz/msc/2024-PinganRen.pdf)
 
