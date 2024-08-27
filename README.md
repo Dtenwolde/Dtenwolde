@@ -22,4 +22,4 @@ Presentations:
 Daily supervisor of: 
 * MSc student Yiming Wu -- [Seamlessly and Efficiently Integrating DuckDB with Graph Neural Network Libraries](https://homepages.cwi.nl/~boncz/msc/2023-Wu.pdf)
 * MSc student Pingan Ren -- [Parallelized Path-Finding in DuckPGQ](https://homepages.cwi.nl/~boncz/msc/2024-PinganRen.pdf)
-
+* MSc student Paul Groß -- [Dynamically Exploiting Factorized Representations](https://homepages.cwi.nl/~boncz/msc/2024-PaulGross.pdf)
