@@ -1,6 +1,6 @@
 ### Daniël ten Wolde
 
-[X](https://twitter.com/DLJtenWolde) | [LinkedIn](https://www.linkedin.com/in/dani%C3%ABl-ten-wolde/) | [Google Scholar](https://scholar.google.com/citations?user=DxJHoKAAAAAJ&hl=nl&oi=ao)
+[Bluesky](https://bsky.app/profile/dtenwolde.bsky.social) | [X](https://twitter.com/DLJtenWolde) | [LinkedIn](https://www.linkedin.com/in/dani%C3%ABl-ten-wolde/) | [Google Scholar](https://scholar.google.com/citations?user=DxJHoKAAAAAJ&hl=nl&oi=ao)
 
 Timeline: 
 * PhD student at CWI's [Database Architectures](https://github.com/cwida) group (Oct 2022 - Present)
