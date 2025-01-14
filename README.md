@@ -16,7 +16,7 @@ Publications:
 * [DuckPGQ: Bringing SQL/PGQ to DuckDB](https://ir.cwi.nl/pub/33317/33317.pdf) at VLDB 2023 Vancouver
 
 Presentations:
-* LDBC 19th TUC Meeting 2024 London: [Slides](https://docs.google.com/presentation/d/1fd6_PoI9RD8sxbUn0L2sb4tjIV5_Dh8oXjHgfEmJfdE/edit?usp=sharing)
+* LDBC 19th TUC Meeting 2024 London: [Slides](https://docs.google.com/presentation/d/1fd6_PoI9RD8sxbUn0L2sb4tjIV5_Dh8oXjHgfEmJfdE/edit?usp=sharing), [Video](https://www.youtube.com/watch?v=Fzci3Ic0RBQ)
 * DBDBD 2022 Utrecht: [Slides](https://docs.google.com/presentation/d/1tVWOxQ786VsK8PPfLbyw23_78Y4D2GtEj_fXlHvWTn0/edit?usp=sharing)
 * LDBC 15th TUC meeting at SIGMOD 2022 Philadelphia: [Slides](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/daniel-ten-wolde-implementing-sql-pgq-in-duckdb.pdf), [Video](https://www.youtube.com/watch?v=JmSfU0BTH5w)
 
