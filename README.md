@@ -16,11 +16,12 @@ Publications:
 * [DuckPGQ: Bringing SQL/PGQ to DuckDB](https://ir.cwi.nl/pub/33317/33317.pdf) at VLDB 2023 Vancouver
 
 Presentations:
+* DuckCon #6 Amsterdam: [Slides](https://blobs.duckdb.org/events/duckcon6/daniel-ten-wolde-duckpgq-unlocking-graph-analytics-in-duckdb-with-sql-pgq.pdf), [Video](https://www.youtube.com/watch?v=QDdTbhSR2Vo&feature=youtu.be)
 * LDBC 19th TUC Meeting 2024 London: [Slides](https://docs.google.com/presentation/d/1fd6_PoI9RD8sxbUn0L2sb4tjIV5_Dh8oXjHgfEmJfdE/edit?usp=sharing), [Video](https://www.youtube.com/watch?v=Fzci3Ic0RBQ)
 * DBDBD 2022 Utrecht: [Slides](https://docs.google.com/presentation/d/1tVWOxQ786VsK8PPfLbyw23_78Y4D2GtEj_fXlHvWTn0/edit?usp=sharing)
 * LDBC 15th TUC meeting at SIGMOD 2022 Philadelphia: [Slides](https://pub-383410a98aef4cb686f0c7601eddd25f.r2.dev/event/fifteenth-tuc-meeting/attachments/daniel-ten-wolde-implementing-sql-pgq-in-duckdb.pdf), [Video](https://www.youtube.com/watch?v=JmSfU0BTH5w)
 
 Daily supervisor of: 
-* MSc student Yiming Wu -- [Seamlessly and Efficiently Integrating DuckDB with Graph Neural Network Libraries](https://homepages.cwi.nl/~boncz/msc/2023-Wu.pdf)
-* MSc student Pingan Ren -- [Parallelized Path-Finding in DuckPGQ](https://homepages.cwi.nl/~boncz/msc/2024-PinganRen.pdf)
-* MSc student Paul Groß -- [Dynamically Exploiting Factorized Representations](https://homepages.cwi.nl/~boncz/msc/2024-PaulGross.pdf)
+* MSc student Yiming Wu: [Seamlessly and Efficiently Integrating DuckDB with Graph Neural Network Libraries](https://homepages.cwi.nl/~boncz/msc/2023-Wu.pdf)
+* MSc student Pingan Ren: [Parallelized Path-Finding in DuckPGQ](https://homepages.cwi.nl/~boncz/msc/2024-PinganRen.pdf)
+* MSc student Paul Groß: [Dynamically Exploiting Factorized Representations](https://homepages.cwi.nl/~boncz/msc/2024-PaulGross.pdf)
