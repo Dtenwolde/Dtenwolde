@@ -2,11 +2,13 @@
 
 [Bluesky](https://bsky.app/profile/dtenwolde.bsky.social) | [X](https://twitter.com/DLJtenWolde) | [LinkedIn](https://www.linkedin.com/in/dani%C3%ABl-ten-wolde/) | [Google Scholar](https://scholar.google.com/citations?user=DxJHoKAAAAAJ&hl=nl&oi=ao)
 
-Timeline: 
+Current activities: 
 * Intern Software Engineer at DuckDB Labs (June 2025 - Present)
 * PhD student at CWI's [Database Architectures](https://github.com/cwida) group (Oct 2022 - Present)
   - PhD topic: Integrating graph processing in relational query engines
   - Currently working on [DuckPGQ](https://github.com/cwida/duckpgq-extension), a [DuckDB](https://github.com/duckdb/duckdb) extension for graph workloads with support for SQL/PGQ
+
+Past Activities
 * Research intern at Google Cloud working on [Spanner Graph](https://cloud.google.com/blog/products/databases/announcing-spanner-graph) (August 2023 - November 2023)
 * MSc graduate in Computer Science (Track: Big Data Engineering) at Vrije Universiteit Amsterdam (September 2020 - August 2022)
   - Master thesis: [Integrating SQL/PGQ into DuckDB](https://homepages.cwi.nl/~boncz/msc/2022-DanielTenWolde.pdf)
